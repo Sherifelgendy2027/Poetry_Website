@@ -1,0 +1,6 @@
+@Poetry_Api_HostAddress = http://localhost:5098
+
+GET {{Poetry_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

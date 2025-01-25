@@ -1,12 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectsWebBack\\PoetrySolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetrysolution\\poetry_website\\poetry_enteties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetrysolution\\poetry_website\\poetry_enteties\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}|Poetry_Dal\\Poetry_Dal.csproj|d:\\projectswebback\\poetrysolution\\poetry_website\\poetry_dal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}|Poetry_Dal\\Poetry_Dal.csproj|solutionrelative:poetry_dal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:04:01.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Poetry_Dal\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Poetry_Dal\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:05:46.364Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Poetry_Enteties\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Poetry_Enteties\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:03:56.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

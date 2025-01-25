@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poetry_Api", "Poetry_Api\Poetry_Api.csproj", "{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poetry_Entities", "Poetry_Enteties\Poetry_Entities.csproj", "{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poetry_Dal", "Poetry_Dal\Poetry_Dal.csproj", "{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Poetry_Api.props" />
+</Project>
