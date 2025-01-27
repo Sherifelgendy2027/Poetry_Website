@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poetry_Dal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1541ebaa648c7cf393f94b9358ddfc27b779e209")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685a1a199dcabaf450431a4ee71b01d678886242")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poetry_Dal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poetry_Dal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
