@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poetry_Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685a1a199dcabaf450431a4ee71b01d678886242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+974e7929e5c69a739f79f1a14a074998f9403a95")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poetry_Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poetry_Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

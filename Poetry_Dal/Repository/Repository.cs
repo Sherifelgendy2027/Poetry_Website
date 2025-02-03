@@ -14,9 +14,9 @@ namespace DAL
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        protected clinicdbContext _context;
+        protected PoetrydbContext _context;
 
-        public Repository(clinicdbContext context)
+        public Repository(PoetrydbContext context)
         {
             _context = context;
         }

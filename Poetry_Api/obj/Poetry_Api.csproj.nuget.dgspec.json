@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Api\\Poetry_Api.csproj": {}
+    "F:\\.net\\Project\\Poetry\\Poetry_Api\\Poetry_Api.csproj": {}
   },
   "projects": {
-    "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Api\\Poetry_Api.csproj": {
+    "F:\\.net\\Project\\Poetry\\Poetry_Api\\Poetry_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Api\\Poetry_Api.csproj",
+        "projectUniqueName": "F:\\.net\\Project\\Poetry\\Poetry_Api\\Poetry_Api.csproj",
         "projectName": "Poetry_Api",
-        "projectPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Api\\Poetry_Api.csproj",
-        "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Api\\obj\\",
+        "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Api\\Poetry_Api.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\.net\\Project\\Poetry\\Poetry_Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sherif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj": {
-                "projectPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj"
+              "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj": {
+                "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj"
               }
             }
           }
@@ -66,11 +67,15 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[9.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -100,20 +105,20 @@
         }
       }
     },
-    "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj": {
+    "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj",
+        "projectUniqueName": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj",
         "projectName": "Poetry_Dal",
-        "projectPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj",
-        "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Dal\\obj\\",
+        "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sherif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -122,14 +127,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj": {
-                "projectPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj"
+              "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj": {
+                "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj"
               }
             }
           }
@@ -160,7 +166,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
             },
             "System.Linq.Dynamic.Core": {
               "target": "Package",
@@ -187,20 +199,20 @@
         }
       }
     },
-    "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj": {
+    "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj",
+        "projectUniqueName": "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj",
         "projectName": "Poetry_Entities",
-        "projectPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj",
-        "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectsWebBack\\PoetrySolution\\Poetry_Website\\Poetry_Enteties\\obj\\",
+        "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj",
+        "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
+        "outputPath": "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sherif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -209,6 +221,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -240,6 +253,10 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [

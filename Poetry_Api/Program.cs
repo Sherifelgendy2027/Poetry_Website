@@ -1,4 +1,9 @@
 
+using DAL;
+using Data;
+using Interfaces;
+using Microsoft.EntityFrameworkCore;
+
 namespace Poetry_Api
 {
     public class Program
@@ -6,10 +11,13 @@ namespace Poetry_Api
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var con = builder.Configuration.GetConnectionString("con");
 
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddDbContext<PoetrydbContext>(options => options.UseSqlServer(con));
+            builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
