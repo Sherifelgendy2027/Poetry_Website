@@ -5038,23 +5038,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Omar\\.nuget\\packages\\": {},
+    "C:\\Users\\Sherif\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj",
+      "projectUniqueName": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj",
       "projectName": "Poetry_Dal",
-      "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\Poetry_Dal.csproj",
-      "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "F:\\.net\\Project\\Poetry\\Poetry_Dal\\obj\\",
+      "projectPath": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\Poetry_Dal.csproj",
+      "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sherif\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5063,15 +5063,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj": {
-              "projectPath": "F:\\.net\\Project\\Poetry\\Poetry_Enteties\\Poetry_Entities.csproj"
+            "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj": {
+              "projectPath": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Poetry_Entities.csproj"
             }
           }
         }
