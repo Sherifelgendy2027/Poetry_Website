@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poetry_Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc6c71ff26ce9408a4874ef85aec290552db1c22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6ab83a0a814aee75975485b59d0323183971e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poetry_Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poetry_Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

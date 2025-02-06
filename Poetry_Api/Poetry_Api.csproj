@@ -22,8 +22,5 @@
 	<ItemGroup>
 	  <ProjectReference Include="..\Poetry_Dal\Poetry_Dal.csproj" />
 	</ItemGroup>
-	<ItemGroup>
-	  <Folder Include="DTO\" />
-	</ItemGroup>
 
 </Project>

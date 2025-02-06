@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\updateauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\addauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\addauthordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\getauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\getauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\getadminsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\getadminsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\updateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\updateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\dto\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\dto\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\versecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\versecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_api\\controllers\\apibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3DE98F3-877C-4AC5-9E6D-DE09982DFCD9}|Poetry_Api\\Poetry_Api.csproj|solutionrelative:poetry_api\\controllers\\apibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_enteties\\models\\verse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\models\\verse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_enteties\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}|Poetry_Dal\\Poetry_Dal.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_dal\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{A780281F-5949-4B78-8C0C-75E5AEB0E4B2}|Poetry_Dal\\Poetry_Dal.csproj|solutionrelative:poetry_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_enteties\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|d:\\projectswebback\\poetry_solution\\poetry_website\\poetry_enteties\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F48FEA1E-56C5-4281-A22D-D4EFFD0CA5DE}|Poetry_Enteties\\Poetry_Entities.csproj|solutionrelative:poetry_enteties\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,51 +93,112 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateAuthorDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\UpdateAuthorDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\UpdateAuthorDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\UpdateAuthorDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\UpdateAuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:01:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAuthorDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\AddAuthorDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\AddAuthorDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\AddAuthorDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\AddAuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:00:18.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GetAuthorsDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\GetAuthorsDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\GetAuthorsDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\GetAuthorsDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\GetAuthorsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:58:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAdminsDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\GetAdminsDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\GetAdminsDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\GetAdminsDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\GetAdminsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:47:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Poetry_Api\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T16:41:07.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthorController.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\AuthorController.cs",
               "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "Poetry_Api\\Controllers\\AuthorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T16:42:07.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Poetry_Api\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UpdateAdminDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\UpdateAdminDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\UpdateAdminDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\UpdateAdminDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\UpdateAdminDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:42:39.791Z",
+              "WhenOpened": "2025-02-06T13:20:25.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "AddAdminDTO.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\AddAdminDTO.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\DTO\\AddAdminDTO.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\DTO\\AddAdminDTO.cs",
+              "RelativeToolTip": "Poetry_Api\\DTO\\AddAdminDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:12:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RequestController.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\RequestController.cs",
               "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\RequestController.cs",
@@ -129,25 +206,36 @@
               "RelativeToolTip": "Poetry_Api\\Controllers\\RequestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:43:21.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T16:43:21.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Poetry_Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:42:39.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "VerseController.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\VerseController.cs",
               "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\VerseController.cs",
               "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\VerseController.cs",
               "RelativeToolTip": "Poetry_Api\\Controllers\\VerseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T16:43:43.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "APIBaseController.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\Controllers\\APIBaseController.cs",
               "RelativeDocumentMoniker": "Poetry_Api\\Controllers\\APIBaseController.cs",
@@ -155,25 +243,11 @@
               "RelativeToolTip": "Poetry_Api\\Controllers\\APIBaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:41:30.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T16:41:30.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "Poetry_Enteties\\Models\\Admin.cs",
-              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Admin.cs",
-              "RelativeToolTip": "Poetry_Enteties\\Models\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:35:16.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Poetry_Dal\\Repository\\UnitOfWork.cs",
@@ -181,12 +255,11 @@
               "RelativeToolTip": "Poetry_Dal\\Repository\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:51:26.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T18:51:26.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Poetry_Enteties\\Interfaces\\IUnitOfWork.cs",
@@ -198,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\Program.cs",
               "RelativeDocumentMoniker": "Poetry_Dal\\Program.cs",
@@ -210,19 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Poetry_Enteties\\Models\\Author.cs",
-              "ToolTip": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Author.cs",
-              "RelativeToolTip": "Poetry_Enteties\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:41:10.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Poetry_Enteties\\Models\\Category.cs",
@@ -234,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Request.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Request.cs",
               "RelativeDocumentMoniker": "Poetry_Enteties\\Models\\Request.cs",
@@ -246,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Verse.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Enteties\\Models\\Verse.cs",
               "RelativeDocumentMoniker": "Poetry_Enteties\\Models\\Verse.cs",
@@ -254,12 +315,11 @@
               "RelativeToolTip": "Poetry_Enteties\\Models\\Verse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:40:58.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T18:40:58.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "PoetrydbContext.cs",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Dal\\Data\\PoetrydbContext.cs",
               "RelativeDocumentMoniker": "Poetry_Dal\\Data\\PoetrydbContext.cs",
@@ -271,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ProjectsWebBack\\Poetry_Solution\\Poetry_Website\\Poetry_Api\\appsettings.json",
               "RelativeDocumentMoniker": "Poetry_Api\\appsettings.json",
@@ -280,6 +340,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-03T18:34:47.351Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
